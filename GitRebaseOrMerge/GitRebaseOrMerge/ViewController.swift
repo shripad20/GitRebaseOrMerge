@@ -16,7 +16,7 @@ class ViewController: UIViewController {
         print("Initial Commit")
         print("Creating merging branch!!!")
         print("First commit in merge branch.")
-    
+        print("Second commit in merge branch.")
  
     }
 
