@@ -25,6 +25,7 @@ class ViewController: UIViewController {
         print("First commit in rebase branch.")
         print("Second commit in rebase branch.")
         print("Third commit in rebase branch.")
+        print("Forth commit in rebase branch.")
     }
 
     override func didReceiveMemoryWarning() {
