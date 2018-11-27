@@ -23,7 +23,7 @@ class ViewController: UIViewController {
         
         print("Creating rebase branch!!!")
         print("First commit in rebase branch.")
-
+        print("Second commit in rebase branch.")
         
     }
 
