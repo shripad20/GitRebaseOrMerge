@@ -18,6 +18,7 @@ class ViewController: UIViewController {
         print("First commit in merge branch.")
         print("Second commit in merge branch.")
         print("Third commit in merge branch.")
+        print("Forth commit in merge branch after merging.")
  
     }
 
